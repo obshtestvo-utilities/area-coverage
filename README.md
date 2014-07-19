@@ -9,6 +9,11 @@ a.k.a within coverage.
 The points for the area's bounds are defined as sequence of `{X:.., Y:..}` objects
 for `top left`, `top right`, 'bottom right', 'bottom left'.
 
+## Install
+
+```
+bower install https://github.com/obshtestvo-utilities/area-coverage.git
+```
 
 ## Usage example
 
