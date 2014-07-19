@@ -9,6 +9,8 @@ a.k.a within coverage.
 The points for the area's bounds are defined as sequence of `{X:.., Y:..}` objects
 for `top left`, `top right`, 'bottom right', 'bottom left'.
 
+More detailed description of what it does can been seen as part of a [blog post in Bulgarian language](http://status.obshtestvo.bg/tech/2014/03/16/recycl%D0%B5-coverage.html).
+
 ## Install
 
 ```
