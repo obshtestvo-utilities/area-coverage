@@ -17,6 +17,17 @@ More detailed description of what it does can been seen as part of a [blog post 
 bower install https://github.com/obshtestvo-utilities/area-coverage.git
 ```
 
+Add to your page:
+
+```html
+<script src="path/to/bower/components/clipper/clipper.js' %}"></script>
+<script src="path/to/bower/components/area-coverage/coverage.js' %}"></script>
+<!--if you use google maps uncomment the following-->
+<!--<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>-->
+<!--<script src="path/to/bower/components/area-coverage/coverage.js' %}"></script>-->
+<!--<script src="path/to/bower/components/area-coverage/coverage.google.js' %}"></script>-->
+```
+
 ## Usage example
 
 This is example of using `area-coverage` when you have an app with Google maps and some server-side logic

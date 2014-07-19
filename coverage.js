@@ -1,5 +1,3 @@
-
-
 var Coverage = function(options) {
     if (!options) {
         this.options = Coverage.defaultOptions;
