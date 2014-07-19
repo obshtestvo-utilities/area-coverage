@@ -24,7 +24,6 @@ Add to your page:
 <script src="path/to/bower/components/area-coverage/coverage.js' %}"></script>
 <!--if you use google maps uncomment the following-->
 <!--<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>-->
-<!--<script src="path/to/bower/components/area-coverage/coverage.js' %}"></script>-->
 <!--<script src="path/to/bower/components/area-coverage/coverage.google.js' %}"></script>-->
 ```
 
