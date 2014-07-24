@@ -22,4 +22,5 @@ var googleBoundsTransformation = function(bounds, multiplier) {
             Y: points[i].lng() * multiplier
         })
     }
+    return path;
 }
